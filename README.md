@@ -1,4 +1,4 @@
-# Games
+# Finite Player Controller
 
-My Projects over a span of few years.
+My finite player solution for the untitled game that i am making.
 
